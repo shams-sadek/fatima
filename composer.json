@@ -12,5 +12,10 @@
             "name": "shams sadek",
             "email": "shams_sadek@yahoo.com"
         }
-    ]
+    ],
+    "autoload"   : {
+      "psr-4": {
+          "Acme\\"    : "src/"
+      }
+    }
 }
