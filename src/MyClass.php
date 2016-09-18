@@ -2,6 +2,8 @@
 
 class MyClass {
 
+  public $name='Shams Sadek';
+
   public function output()
   {
     return 'Bangladesh';
